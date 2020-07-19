@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81d8a1e8-efb6-4cc5-852a-0eba99197ea9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj1_1/code/sandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/proj1_1/code/sandbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj1_1/code/se3_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/proj1_1/code/se3_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj1_1/code/waypoint_traj.py" beforeDir="false" afterPath="$PROJECT_DIR$/proj1_1/code/waypoint_traj.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XDYGBCyI75lt0kd9J0KGE2UJUE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proj1_1/code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_1/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_1/code/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81d8a1e8-efb6-4cc5-852a-0eba99197ea9" name="Default Changelist" comment="" />
+      <created>1580582033940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580582033940</updated>
+    </task>
+    <task id="LOCAL-00001" summary="work, angular velocity, velocity and quatenion underdamping">
+      <created>1581094578695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581094578695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="work, angular velocity, velocity and quatenion underdamping">
+      <created>1581096018737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581096018738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="position x, y ,z turn well done, need to turn orientation">
+      <created>1581107648236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581107648236</updated>
+    </task>
+    <task id="LOCAL-00004" summary="position x, y ,z turn well done, need to turn orientation">
+      <created>1581115083238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581115083238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="trajactory testing, save gain">
+      <created>1581135135359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581135135359</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all work, need to test gain">
+      <created>1581137416351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581137416351</updated>
+    </task>
+    <task id="LOCAL-00007" summary="waypoint was buggy, now all work, need to test gain">
+      <created>1581192299967</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581192299967</updated>
+    </task>
+    <task id="LOCAL-00008" summary="waypoint was buggy, now all work, need to test gain">
+      <created>1581495514759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581495514759</updated>
+    </task>
+    <task id="LOCAL-00009" summary="waypoint was buggy, now all work, need to test gain">
+      <created>1581495548711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581495548711</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="work, angular velocity, velocity and quatenion underdamping" />
+    <MESSAGE value="position x, y ,z turn well done, need to turn orientation" />
+    <MESSAGE value="trajactory testing, save gain" />
+    <MESSAGE value="all work, need to test gain" />
+    <MESSAGE value="waypoint was buggy, now all work, need to test gain" />
+    <option name="LAST_COMMIT_MESSAGE" value="waypoint was buggy, now all work, need to test gain" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580923663883">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="141" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580923663883" />
+    <state x="94" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1580582788404" />
+    <state x="410" y="0" width="733" height="777" key="CommitChangelistDialog2" timestamp="1581495548584">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581192299686" />
+    <state x="410" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581495548584" />
+    <state x="273" y="23" width="733" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1581137416147" />
+    <state width="1259" height="154" key="GridCell.Tab.0.bottom" timestamp="1583288677157">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583288677157" />
+    <state width="1899" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580927902024" />
+    <state width="687" height="154" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581190766629" />
+    <state width="1239" height="167" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1580940251492" />
+    <state width="1259" height="154" key="GridCell.Tab.0.center" timestamp="1583288677156">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583288677156" />
+    <state width="1899" height="184" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580927902023" />
+    <state width="687" height="154" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1581190766628" />
+    <state width="1239" height="167" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1580940251492" />
+    <state width="1259" height="154" key="GridCell.Tab.0.left" timestamp="1583288677156">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583288677156" />
+    <state width="1899" height="184" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580927902022" />
+    <state width="687" height="154" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1581190766628" />
+    <state width="1239" height="167" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1580940251491" />
+    <state width="1259" height="154" key="GridCell.Tab.0.right" timestamp="1583288677157">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="154" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583288677157" />
+    <state width="1899" height="184" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580927902024" />
+    <state width="687" height="154" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1581190766629" />
+    <state width="1239" height="167" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1580940251492" />
+    <state width="687" height="182" key="GridCell.Tab.1.bottom" timestamp="1581533833664">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="687" height="182" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581533833664" />
+    <state width="687" height="182" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581145897302" />
+    <state width="687" height="182" key="GridCell.Tab.1.center" timestamp="1581533833663">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="687" height="182" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581533833663" />
+    <state width="687" height="182" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1581145897302" />
+    <state width="687" height="182" key="GridCell.Tab.1.left" timestamp="1581533833662">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="687" height="182" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581533833662" />
+    <state width="687" height="182" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1581145897301" />
+    <state width="687" height="182" key="GridCell.Tab.1.right" timestamp="1581533833664">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="687" height="182" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581533833664" />
+    <state width="687" height="182" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1581145897302" />
+    <state x="464" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1583355729126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="309" y="248" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1581144040667" />
+    <state x="464" y="335" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583355729126" />
+    <state x="309" y="264" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1581060085689" />
+    <state x="464" y="351" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1580886792668" />
+    <state x="205" y="134" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581132715569">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="205" y="134" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777@0.23.1280.777" timestamp="1581132715569" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1581142358503">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1581142358503" />
+    <state x="370" y="319" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581143903079">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="319" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.800@0.0.1280.800" timestamp="1581143903079" />
+  </component>
+</project>

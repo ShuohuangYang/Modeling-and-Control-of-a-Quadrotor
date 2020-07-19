@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 48fdcfa9c7f255d532bfd1d947b4e1542fb433c6 Shuohuang Yang <ysh091036@gmail.com> 1581061673 -0500	commit (initial): meam620 git added
+48fdcfa9c7f255d532bfd1d947b4e1542fb433c6 0f326ff64c339aa4d7ae4909e817f08cc24a8dca Shuohuang Yang <ysh091036@gmail.com> 1581062661 -0500	commit: se3_control.py recover to my old version from Arthur' debuging version. After reinstall the whole project, it seems working, the previous code is working.
+0f326ff64c339aa4d7ae4909e817f08cc24a8dca 73f4b442c0e816a3ddcbfb0aca3e777a6c1877d1 Shuohuang Yang <ysh091036@gmail.com> 1581094578 -0500	commit: work, angular velocity, velocity and quatenion underdamping
+73f4b442c0e816a3ddcbfb0aca3e777a6c1877d1 a7953ca11146ec7d295d7fd502454a897323502c Shuohuang Yang <ysh091036@gmail.com> 1581096018 -0500	commit: work, angular velocity, velocity and quatenion underdamping
+a7953ca11146ec7d295d7fd502454a897323502c b6352be2d95be0b8b04a42b687c335d4c246040c Shuohuang Yang <ysh091036@gmail.com> 1581096091 -0500	commit: working, velocity angular velocity and quaternion underdamping
+b6352be2d95be0b8b04a42b687c335d4c246040c c61ec64e6fb12d42157635ffb1184282b55ee72e Shuohuang Yang <ysh091036@gmail.com> 1581107648 -0500	commit: position x, y ,z turn well done, need to turn orientation
+c61ec64e6fb12d42157635ffb1184282b55ee72e 421ea3e0728d1cef45c9f476a5725104600ce4a6 Shuohuang Yang <ysh091036@gmail.com> 1581115083 -0500	commit: position x, y ,z turn well done, need to turn orientation
+421ea3e0728d1cef45c9f476a5725104600ce4a6 c6c8831b4d1696eaf4727fc0c592ad687a33bfdd Shuohuang Yang <ysh091036@gmail.com> 1581135135 -0500	commit: trajactory testing, save gain
+c6c8831b4d1696eaf4727fc0c592ad687a33bfdd 913b86636203036446b5784c48776c504125fe45 Shuohuang Yang <ysh091036@gmail.com> 1581137416 -0500	commit: all work, need to test gain
+913b86636203036446b5784c48776c504125fe45 cf0f98f3e78ae6b322efdfd09ad6cf3b70ce6609 Shuohuang Yang <ysh091036@gmail.com> 1581192299 -0500	commit: waypoint was buggy, now all work, need to test gain
+cf0f98f3e78ae6b322efdfd09ad6cf3b70ce6609 980c2ae15f0f79423727eb6a026442f68e775546 Shuohuang Yang <ysh091036@gmail.com> 1581495514 -0500	commit: waypoint was buggy, now all work, need to test gain
+980c2ae15f0f79423727eb6a026442f68e775546 6d52d60229f3f64aa352c9ccf44a65eb48ebcbee Shuohuang Yang <ysh091036@gmail.com> 1581495548 -0500	commit: waypoint was buggy, now all work, need to test gain
